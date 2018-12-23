@@ -69,20 +69,7 @@ a{
 	color: white;
 }
 
-.col-xs-12 {
-    width: 90%;
-    margin-left: 35px;
-    margin-bottom: 30px;
-    }
-
-.col-sm-12 {
-    width: 90%;
-    margin-left: 45px;
-    margin-bottom: 30px;
-    }
-
-.col-sm-12 {
-    width: 90%;
-    margin-left: 65px;
-    margin-bottom: 30px;
-    }
+.container{
+	margin-bottom: 40px;
+	width: 90%;
+}
